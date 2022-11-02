@@ -16,7 +16,9 @@ function primeNumber(number) {
 let number = 16;
 if (primeNumber(number) == true) {
 
+
   console.log("it is a prime number");
+
 } else {
   console.log("is not a prime number");
 }
